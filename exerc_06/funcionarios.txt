@@ -1,0 +1,4 @@
+Nome: Carlos Silva, Cargo: Desenvolvedor, Salário: 2500.0
+
+Nome: Thiago Antunes, Cargo: Assistente de RH, Salário: 1800.0
+

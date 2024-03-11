@@ -1,0 +1,2 @@
+Teste de texto estou no arquivo 1
+esse texto é um texto de exemplo
